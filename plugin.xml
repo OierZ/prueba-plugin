@@ -9,10 +9,10 @@
   <platform name="android">
     <config-file parent="/*" target="res/xml/config.xml">
       <feature name="Prueba">
-        <param name="android-package" value="cordova-plugin-prueba.Prueba" />
+        <param name="android-package" value="cordova.plugin.prueba.Prueba" />
       </feature>
     </config-file>
     <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-    <source-file src="src/android/Prueba.java" target-dir="src/cordova-plugin-prueba/Prueba" />
+    <source-file src="src/android/Prueba.java" target-dir="src/cordova/plugin/prueba/Prueba" />
   </platform>
 </plugin>

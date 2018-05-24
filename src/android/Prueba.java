@@ -1,4 +1,4 @@
-package cordova-plugin-prueba;
+package cordova.plugin.prueba;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
