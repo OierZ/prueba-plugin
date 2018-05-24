@@ -4,7 +4,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
   <name>Prueba</name>
   <js-module name="Prueba" src="www/Prueba.js">
-    <clobbers target="cordova.plugins.Prueba" />
+    <clobbers target="Prueba" />
   </js-module>
   <platform name="android">
     <config-file parent="/*" target="res/xml/config.xml">
