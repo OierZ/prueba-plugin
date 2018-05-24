@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-prueba",
+  "version": "0.0.1",
+  "description": "plugin para hacer cosas",
+  "cordova": {
+    "id": "cordova-plugin-prueba",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OierZ/prueba-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Oier Zabala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OierZ/prueba-plugin/issues"
+  },
+  "homepage": "https://github.com/OierZ/prueba-plugin#readme"
+}
